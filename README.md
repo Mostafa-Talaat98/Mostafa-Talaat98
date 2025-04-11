@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2390EE90&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Mustafa+Talaat+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;React.js+%26+Node.js+%26+Express)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2390EE90&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Mustafa+Talaat+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;React.js+%26+Node.js+%26+Express js)
 
 🌍 From: Cairo, Egypt 
 
@@ -8,6 +8,7 @@
 🎓 **Education:**
 
 Ahram Canadian University , Faculty of Computer Science
+
 🎓 **Training:** 
 
 - Software Development Training @ ITI  
