@@ -51,8 +51,10 @@ Ahram Canadian University , Faculty of Computer Science
 ---
 
 ## 📊 GitHub Stats
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark)
 
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Talaat98&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=6&hide=Biade)
 ---
 
 ## 📬 Connect With Me
