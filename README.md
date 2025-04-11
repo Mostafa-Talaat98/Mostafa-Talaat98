@@ -57,10 +57,9 @@ Ahram Canadian University , Faculty of Computer Science
 
 ---
 
-## 📬 Connect With Me
+💬 Let's Connect
 
 **[LinkedIn](https://www.linkedin.com/in/mostafa-talaat-214878162)**  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-mtlt278@gmail.com)  
 
 
 Thanks for visiting my GitHub! Feel free to explore my repositories and reach out to discuss collaboration or share ideas.
