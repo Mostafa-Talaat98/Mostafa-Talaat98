@@ -55,6 +55,19 @@ Ahram Canadian University , Faculty of Computer Science
 ![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Talaat98&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=6&hide=Biade)
+
+## 📊 GitHub Stats  
+
+### Most Used Languages  
+- JavaScript 62.3%  
+- TypeScript 18.7%  
+- HTML 9.2%  
+- Python 5.1%  
+- CSS 3.4%  
+- Shell 1.3%  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Talaat98&layout=compact&theme=dark) 
 ---
 
 ## 📬 Connect With Me
