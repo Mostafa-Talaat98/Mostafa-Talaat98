@@ -1,57 +1,59 @@
-# مصطفى طلعت
+Mostafa-Talaat98 / README.md
+
+# 👨‍💻 Full Stack Developer (MERN Stack)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=مرحبًا+أنا+مصطفى+طلعت+%F0%9F%91%8B;مطور+Full+Stack;MERN+Stack+Developer;React.js+و+Node.js+و+AWS)
 
 ---
 
-**من:** القاهرة، مصر  
-**الدور الحالي:** مطور Full Stack  
-**التعليم:**  
-- تدريب تطوير البرمجيات @ معهد تكنولوجيا المعلومات (ITI)  
-- تدريب MERN Stack @ مبادرة رواد مصر الرقمية (DEPI)
+📍 **From:** Cairo, Egypt  
+💼 **Current Role:** Full Stack Developer  
+🎓 **Education:**  
+- Software Development Training @ ITI  
+- MERN Stack Training @ DEPI (Digital Egypt Pioneers Initiative)
 
 ---
 
-## التقنيات التي أعمل بها
+## 🚀 Technologies I Work With
 
-**تطوير الـ Backend:**  
-- <span style="color: #FF6F61;">React.js</span> تطوير واجهات مستخدم ديناميكية وتفاعلية.  
-- <span style="color: #6A5ACD;">Node.js</span> حلول خلفية قابلة للتوسع.  
-- <span style="color: #FFD700;">Express.js</span> تطوير واجهات برمجية (APIs) بكفاءة.  
-- <span style="color: #FF4500;">MongoDB</span> تصميم وإدارة قواعد البيانات.
+### 🔧 Backend Development:
+- ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white) Dynamic and interactive user interfaces.
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) Scalable backend solutions.
+- ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Efficient API development.
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) Database design and management.
 
-**أدوات و DevOps:**  
-- <span style="color: #00CED1;">Docker</span> استخدام الحاويات لنشر سلس.  
-- <span style="color: #FFA500;">AWS</span> البنية التحتية السحابية والنشر.  
-- <span style="color: #32CD32;">Git</span> التحكم في الإصدارات والتعاون.
+### ⚙️ DevOps & Tools:
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) Containerization and deployment.
+- ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white) Cloud infrastructure & hosting.
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) Version control & collaboration.
 
-**تطوير الـ Frontend:**  
-- <span style="color: #1E90FF;">TypeScript</span> جافا سكريبت آمن لتطبيقات قوية.  
-- <span style="color: #4682B4;">JavaScript</span> مكونات ويب ديناميكية وتفاعلية.
+### 🎨 Frontend Development:
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) Strongly typed JS for scalable apps.
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) Dynamic and interactive web components.
 
-**حل المشكلات:**  
-- <span style="color: #FF6347;">LeetCode</span> نشط في حل المشكلات لتحسين مهارات الخوارزميات.
-
----
-
-## ما أعمل عليه
-
-**المشاريع المميزة:**  
-- **منصة تجارة إلكترونية:** تطبيق Full Stack باستخدام MERN Stack مع نشر باستخدام Docker.  
-- **تطبيق إدارة المهام:** تم بناؤه باستخدام React.js وNode.js وAWS للتوسع.  
-- **دمج واجهات برمجية (APIs):** واجهات RESTful باستخدام Express.js وMongoDB لإدارة البيانات بكفاءة.
-
-*كل مشروع يبرز مهاراتي التقنية وقدراتي في حل المشكلات لإنشاء تطبيقات قابلة للتوسع وسهلة الصيانة وصديقة للمستخدم.*
+### 💡 Problem Solving:
+- ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white) Actively solving challenges to enhance algorithmic skills.
 
 ---
 
-## إحصائيات GitHub
-![إحصائيات مصطفى](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark)
+## 🛠️ What I'm Working On
+
+### ✨ Featured Projects:
+- **E-Commerce Platform:** Full Stack MERN app with Dockerized deployment.
+- **Task Management App:** Built with React.js, Node.js & AWS for scalability.
+- **API Integrations:** RESTful APIs using Express.js & MongoDB for efficient data management.
+
+*Each project reflects my technical expertise and problem-solving skills to build scalable, maintainable, and user-friendly applications.*
 
 ---
 
-## تواصلوا معي
+## 📊 GitHub Stats
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark)
 
-**[لينكدإن](https://linkedin.com/in/your-profile)** *(قم بتحديث الرابط الخاص بك)*  
+---
 
-شكرًا لزيارة ملفي على GitHub! لا تتردد في استكشاف مستودعاتي والتواصل معي لمناقشة التعاون أو مشاركة الأفكار.
+## 📬 Connect With Me
+
+**[LinkedIn](https://linkedin.com/in/your-profile)** *(Update your profile link)*  
+
+Thanks for visiting my GitHub! Feel free to explore my repositories and reach out to discuss collaboration or share ideas.
