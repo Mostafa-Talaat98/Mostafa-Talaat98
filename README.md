@@ -1,10 +1,14 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2390EE90&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Mustafa+Talaat+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;React.js+%26+Node.js+%26+AWS)
-**From:** Cairo, Egypt  
+
+🌍 From: Cairo, Egypt 
 💼 **Current Role:** Full Stack Developer  
-🎓 **Education:**  
+🎓 **Education:**
+Ahram Canadian University , Faculty of Computer Science
+🎓 **Training:** 
 - Software Development Training @ ITI  
 - MERN Stack Training @ DEPI (Digital Egypt Pioneers Initiative)
+- STEM EntrePreneurship Center Full stack Trainee
 
 ---
 
@@ -48,6 +52,6 @@
 
 ## 📬 Connect With Me
 
-**[LinkedIn](https://linkedin.com/in/your-profile)** *(Update your profile link)*  
+**[LinkedIn]([www.linkedin.com/in/mostafa-talaat-214878162](https://www.linkedin.com/in/mostafa-talaat-214878162/))**   
 
 Thanks for visiting my GitHub! Feel free to explore my repositories and reach out to discuss collaboration or share ideas.
