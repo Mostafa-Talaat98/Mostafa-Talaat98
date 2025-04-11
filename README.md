@@ -52,26 +52,15 @@ Ahram Canadian University , Faculty of Computer Science
 
 ## 📊 GitHub Stats
 
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Talaat98&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=6&hide=Biade)
-
-## 📊 GitHub Stats  
-
-### Most Used Languages  
-- JavaScript 62.3%  
-- TypeScript 18.7%  
-- HTML 9.2%  
-- Python 5.1%  
-- CSS 3.4%  
-- Shell 1.3%  
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Talaat98&layout=compact&theme=dark) 
+
 ---
 
 ## 📬 Connect With Me
 
-**[LinkedIn](https://www.linkedin.com/in/mostafa-talaat-214878162)**   
+**[LinkedIn](https://www.linkedin.com/in/mostafa-talaat-214878162)**  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-mtlt278@gmail.com)  
+
 
 Thanks for visiting my GitHub! Feel free to explore my repositories and reach out to discuss collaboration or share ideas.
