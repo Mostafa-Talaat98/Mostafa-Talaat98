@@ -1,5 +1,6 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF9D&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Mustafa+Talaat+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;React.js+%26+Node.js+%26+AWS)📍 **From:** Cairo, Egypt  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2390EE90&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Mustafa+Talaat+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;React.js+%26+Node.js+%26+AWS)
+**From:** Cairo, Egypt  
 💼 **Current Role:** Full Stack Developer  
 🎓 **Education:**  
 - Software Development Training @ ITI  
