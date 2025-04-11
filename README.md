@@ -57,6 +57,6 @@ Ahram Canadian University , Faculty of Computer Science
 
 ## 📬 Connect With Me
 
-**[LinkedIn](www.linkedin.com/in/mostafa-talaat-214878162)**   
+**[LinkedIn](https://www.linkedin.com/in/mostafa-talaat-214878162)**   
 
 Thanks for visiting my GitHub! Feel free to explore my repositories and reach out to discuss collaboration or share ideas.
