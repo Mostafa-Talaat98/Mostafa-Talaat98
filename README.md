@@ -1,42 +1,57 @@
-Mostafa Talaat
-Full Stack Developer | MERN Stack | Problem Solver
+# مصطفى طلعت
 
-FROM: Cairo, Egypt
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=مرحبًا+أنا+مصطفى+طلعت+%F0%9F%91%8B;مطور+Full+Stack;MERN+Stack+Developer;React.js+و+Node.js+و+AWS)
 
-CURRENT ROLE: Full Stack Developer
+---
 
-EDUCATION:
+**من:** القاهرة، مصر  
+**الدور الحالي:** مطور Full Stack  
+**التعليم:**  
+- تدريب تطوير البرمجيات @ معهد تكنولوجيا المعلومات (ITI)  
+- تدريب MERN Stack @ مبادرة رواد مصر الرقمية (DEPI)
 
-Software Development Internship @ Information Technology Institute (ITI)
-MERN Stack Internship @ Digital Egypt Pioneers Initiative (DEPI)
-TECHNOLOGIES I WORK WITH
-BACKEND DEVELOPMENT:
+---
 
-<span style="color: #FF6F61;">React.js</span> Dynamic and interactive UI development.
-<span style="color: #6A5ACD;">Node.js</span> Scalable backend solutions.
-<span style="color: #FFD700;">Express.js</span> Efficient API development.
-<span style="color: #FF4500;">MongoDB</span> Database design and management.
-DEVOPS & TOOLS:
+## التقنيات التي أعمل بها
 
-<span style="color: #00CED1;">Docker</span> Containerization for seamless deployment.
-<span style="color: #FFA500;">AWS</span> Cloud infrastructure and deployment.
-<span style="color: #32CD32;">Git</span> Version control and collaboration.
-FRONTEND DEVELOPMENT:
+**تطوير الـ Backend:**  
+- <span style="color: #FF6F61;">React.js</span> تطوير واجهات مستخدم ديناميكية وتفاعلية.  
+- <span style="color: #6A5ACD;">Node.js</span> حلول خلفية قابلة للتوسع.  
+- <span style="color: #FFD700;">Express.js</span> تطوير واجهات برمجية (APIs) بكفاءة.  
+- <span style="color: #FF4500;">MongoDB</span> تصميم وإدارة قواعد البيانات.
 
-<span style="color: #1E90FF;">TypeScript</span> Type-safe JavaScript for robust applications.
-<span style="color: #4682B4;">JavaScript</span> Dynamic and interactive web components.
-PROBLEM SOLVING:
+**أدوات و DevOps:**  
+- <span style="color: #00CED1;">Docker</span> استخدام الحاويات لنشر سلس.  
+- <span style="color: #FFA500;">AWS</span> البنية التحتية السحابية والنشر.  
+- <span style="color: #32CD32;">Git</span> التحكم في الإصدارات والتعاون.
 
-<span style="color: #FF6347;">LeetCode</span> Active problem solver, sharpening algorithmic skills.
-WHAT I'M WORKING ON
-FEATURED PROJECTS:
+**تطوير الـ Frontend:**  
+- <span style="color: #1E90FF;">TypeScript</span> جافا سكريبت آمن لتطبيقات قوية.  
+- <span style="color: #4682B4;">JavaScript</span> مكونات ويب ديناميكية وتفاعلية.
 
-E-commerce Platform: Full-stack application using MERN stack with Dockerized deployment.
-Task Management App: Built with React.js, Node.js, and AWS for scalability.
-API Integration: RESTful APIs with Express.js and MongoDB for efficient data handling.
-Each project highlights my technical skills and problem-solving abilities in creating scalable, maintainable, and user-friendly applications.
+**حل المشكلات:**  
+- <span style="color: #FF6347;">LeetCode</span> نشط في حل المشكلات لتحسين مهارات الخوارزميات.
 
-LET'S CONNECT
-LINKEDIN (Update with your link)
+---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me to discuss collaboration or share ideas.
+## ما أعمل عليه
+
+**المشاريع المميزة:**  
+- **منصة تجارة إلكترونية:** تطبيق Full Stack باستخدام MERN Stack مع نشر باستخدام Docker.  
+- **تطبيق إدارة المهام:** تم بناؤه باستخدام React.js وNode.js وAWS للتوسع.  
+- **دمج واجهات برمجية (APIs):** واجهات RESTful باستخدام Express.js وMongoDB لإدارة البيانات بكفاءة.
+
+*كل مشروع يبرز مهاراتي التقنية وقدراتي في حل المشكلات لإنشاء تطبيقات قابلة للتوسع وسهلة الصيانة وصديقة للمستخدم.*
+
+---
+
+## إحصائيات GitHub
+![إحصائيات مصطفى](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark)
+
+---
+
+## تواصلوا معي
+
+**[لينكدإن](https://linkedin.com/in/your-profile)** *(قم بتحديث الرابط الخاص بك)*  
+
+شكرًا لزيارة ملفي على GitHub! لا تتردد في استكشاف مستودعاتي والتواصل معي لمناقشة التعاون أو مشاركة الأفكار.
