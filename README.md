@@ -2,54 +2,54 @@
 
 ---
 
-**From:** Cairo, Egypt  
-**Current Role:** Full Stack Developer  
-**Education:**  
-- Software Development Training @ Information Technology Institute (ITI)  
-- MERN Stack Training @ Egypt Digital Pioneers Initiative (DIPI)
+📍 **From:** Cairo, Egypt  
+💼 **Current Role:** Full Stack Developer  
+🎓 **Education:**  
+- Software Development Training @ ITI  
+- MERN Stack Training @ DEPI (Digital Egypt Pioneers Initiative)
 
 ---
 
-## Technologies I Work With
+## 🚀 Technologies I Work With
 
-**Backend Development:**  
-- <span style="color: #FF6F61;">React.js</span> Building dynamic and interactive user interfaces.  
-- <span style="color: #6A5ACD;">Node.js</span> Scalable backend solutions.  
-- <span style="color: #FFD700;">Express.js</span> Efficient API development.  
-- <span style="color: #FF4500;">MongoDB</span> Database design and management.
+### 🔧 Backend Development:
+- ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white) Dynamic and interactive user interfaces.
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) Scalable backend solutions.
+- ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Efficient API development.
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) Database design and management.
 
-**Tools & DevOps:**  
-- <span style="color: #00CED1;">Docker</span> Containerization for seamless deployment.  
-- <span style="color: #FFA500;">AWS</span> Cloud infrastructure and deployment.  
-- <span style="color: #32CD32;">Git</span> Version control and collaboration.
+### ⚙️ DevOps & Tools:
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) Containerization and deployment.
+- ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white) Cloud infrastructure & hosting.
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) Version control & collaboration.
 
-**Frontend Development:**  
-- <span style="color: #1E90FF;">TypeScript</span> Type-safe JavaScript for robust applications.  
-- <span style="color: #4682B4;">JavaScript</span> Dynamic and interactive web components.
+### 🎨 Frontend Development:
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) Strongly typed JS for scalable apps.
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) Dynamic and interactive web components.
 
-**Problem Solving:**  
-- <span style="color: #FF6347;">LeetCode</span> Active problem solver for algorithm improvement.
-
----
-
-## What I'm Working On
-
-**Featured Projects:**  
-- **E-commerce Platform:** Full Stack application using MERN Stack with Docker deployment.  
-- **Task Management App:** Built with React.js, Node.js, and AWS for scalability.  
-- **API Integrations:** RESTful APIs using Express.js and MongoDB for efficient data management.
-
-*Each project highlights my technical skills and problem-solving abilities in creating scalable, maintainable, and user-friendly applications.*
+### 💡 Problem Solving:
+- ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white) Actively solving challenges to enhance algorithmic skills.
 
 ---
 
-## GitHub Stats
-![Mustafa's Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark)
+## 🛠️ What I'm Working On
+
+### ✨ Featured Projects:
+- **E-Commerce Platform:** Full Stack MERN app with Dockerized deployment.
+- **Task Management App:** Built with React.js, Node.js & AWS for scalability.
+- **API Integrations:** RESTful APIs using Express.js & MongoDB for efficient data management.
+
+*Each project reflects my technical expertise and problem-solving skills to build scalable, maintainable, and user-friendly applications.*
 
 ---
 
-## Let's Connect
+## 📊 GitHub Stats
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark)
 
-**[LinkedIn](https://linkedin.com/in/your-profile)** *(update your link)*  
+---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me to discuss collaboration or share ideas.
+## 📬 Connect With Me
+
+**[LinkedIn](https://linkedin.com/in/your-profile)** *(Update your profile link)*  
+
+Thanks for visiting my GitHub! Feel free to explore my repositories and reach out to discuss collaboration or share ideas.
