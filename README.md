@@ -1,6 +1,5 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2390EE90&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Mustafa+Talaat+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;React.js+%26+Node.js+%26+Expressjs)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Mostafa-Talaat98.Mostafa-Talaat98)
 
 🌍 From: Cairo, Egypt 
 
