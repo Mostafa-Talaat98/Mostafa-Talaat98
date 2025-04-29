@@ -13,7 +13,6 @@ Ahram Canadian University , Faculty of Computer Science
 
 - Software Development Training @ ITI  
 - MERN Stack Training @ DEPI (Digital Egypt Pioneers Initiative)
-- STEM EntrePreneurship Center Full stack Trainee
 
 ---
 
