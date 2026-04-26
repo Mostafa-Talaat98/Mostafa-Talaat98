@@ -49,6 +49,11 @@ Ahram Canadian University , Faculty of Computer Science
 *Each project reflects my technical expertise and problem-solving skills to build scalable, maintainable, and user-friendly applications.*
 
 ---
+### 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
+</p>
 
 ## 📊 GitHub Stats
 
